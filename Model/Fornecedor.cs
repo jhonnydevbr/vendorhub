@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace vendorhub.Model;
 
-public class FornecedorViewModel
+public class Fornecedor
 {
     [Key]
     public Guid Id { get; set; }
