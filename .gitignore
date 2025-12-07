@@ -1,0 +1,38 @@
+# Build e binários
+/bin/
+/obj/
+/out/
+
+# Logs
+*.log
+
+# User secrets do .NET
+*.user
+*.userosscache
+*.sln.docstates
+
+# Configuração local
+appsettings.Development.json
+appsettings.Local.json
+appsettings.json
+*.Secrets.json
+
+# Pacotes NuGet
+*.nupkg
+**/packages/*
+.nuget/
+
+# IDEs
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Publicações
+/publish/
+
+# arquivos temporários
+*.tmp
+*.bak
+*.swp
