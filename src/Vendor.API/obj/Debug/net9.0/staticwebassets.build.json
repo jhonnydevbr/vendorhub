@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eBPV5UuTMKdffoavwcD/7BSnhYLbiPQ9v4A5HlSwvV0=",
+  "Source": "vendorhub.Api",
+  "BasePath": "_content/vendorhub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

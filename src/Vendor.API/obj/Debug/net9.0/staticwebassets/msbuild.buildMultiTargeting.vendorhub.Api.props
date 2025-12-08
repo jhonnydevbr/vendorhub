@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/vendorhub.Api.props" />
+</Project>
